@@ -1,6 +1,9 @@
 ## Hi there 👋 :pencil2:
 
-Olá, sou estudante de programação no curso ' DEV CLUB' de front end e quero realizar a migração de área profissional. Atualmente criando projetos com:
+
+Olá, sou um desenvolvedor Full Stack front-end e back-end. Sou apaixonado por tecnologia e busco sempre soluções inovadoras para atender às necessidades dos meus clientes. 
+
+No que diz respeito às minhas habilidades de front-end, tenho experiência em HTML, CSS e aprendendo JavaScript. Meu objetivo é criar interfaces atraentes e funcionais, com atenção especial à experiência do usuário.
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
